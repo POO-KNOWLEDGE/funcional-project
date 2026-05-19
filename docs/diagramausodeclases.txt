@@ -1,0 +1,18 @@
+               Persona
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+     Cliente              Tecnico
+
+
+                Equipo (abstracta)
+                      │
+           ┌──────────┴──────────┐
+           │                     │
+         Robot                Dron
+
+
+             Equipo
+                ▲
+                │
+       Implementa Reparacion
